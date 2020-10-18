@@ -1,0 +1,26 @@
+{
+  "name": "auto-res",
+  "version": "1.0.1",
+  "description": "a simple auto respone code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "auto",
+    "res",
+    "respone",
+    "node",
+    "nodejs",
+    "js",
+    "mr",
+    "codes",
+    "custom"
+  ],
+  "author": "! SaraX73",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  }
+}
