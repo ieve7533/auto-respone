@@ -138,4 +138,4 @@ message.reply(embed1).then(m1 => {
 
 
 
-client.login('NzMyMjcxMzgwNTI3MzE3MDUz.XwyK3g.XCUU6w1fF6N-FqUtRDchEvBDo2Y')
+client.login('التوكن هنا')
