@@ -4,7 +4,8 @@
   "description": "a simple auto respone code ",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "auto",
